@@ -7,7 +7,7 @@
 
 0️⃣ Fundamental <br>
 1️⃣ Arrays & Matrix <br>
-2️⃣ String <br>
+2️⃣ [String](https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/STRING.pdf) <br>
 3️⃣ Searching <br>
 4️⃣ Sorting <br>
 5️⃣ Hashing <br>
@@ -24,6 +24,11 @@
 1️⃣6️⃣ Dynamic programming <br>
  
 
+## Coding Practice 💻👩‍💻
+
+> 500 Question on DSA [Click here](https://drive.google.com/drive/folders/1YmxM3F7D0-23i9NbZ8kJ-slMKuPefEfT) <br>
+> Leetcode Nest practice [click here](https://drive.google.com/drive/folders/1YmxM3F7D0-23i9NbZ8kJ-slMKuPefEfT) <br>
+>
  
 
 ## Resources 📚🧾
