@@ -5,23 +5,23 @@
  
 ## Roadmap 🛣
 
-0️⃣ Fundamental
-1️⃣ Arrays & Matrix
-2️⃣ String
-3️⃣ Searching
-4️⃣ Sorting
-5️⃣ Hashing
-6️⃣ Stack
-7️⃣ Queue
-8️⃣ Linked List
-9️⃣ Recursion
-1️⃣0️⃣ Backtracking
-1️⃣1️⃣ Tree
-1️⃣2️⃣ BST
-1️⃣3️⃣ Heap or priority queue
-1️⃣4️⃣ Graph
-1️⃣5️⃣ Greedy
-1️⃣6️⃣ Dynamic programming
+0️⃣ Fundamental <br>
+1️⃣ Arrays & Matrix <br>
+2️⃣ String <br>
+3️⃣ Searching <br>
+4️⃣ Sorting <br>
+5️⃣ Hashing <br>
+6️⃣ Stack <br>
+7️⃣ Queue <br>
+8️⃣ Linked List <br>
+9️⃣ Recursion <br>
+1️⃣0️⃣ Backtracking <br>
+1️⃣1️⃣ Tree <br>
+1️⃣2️⃣ BST <br>
+1️⃣3️⃣ Heap or priority queue <br>
+1️⃣4️⃣ Graph <br>
+1️⃣5️⃣ Greedy <br>
+1️⃣6️⃣ Dynamic programming <br>
  
 
  
@@ -29,7 +29,7 @@
 ## Resources 📚🧾
 
 
-⏩ [learnByDoing](https://www.interviewbit.com/courses/programming/)
-⏩ [30dayscoding](https://30dayscoding.com/)
-⏩ [Placement-Preparation](https://github.com/anushka23g/Complete-Placement-Preparation)
-⏩ [Learn DSA on codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare)
+⏩ [learnByDoing](https://www.interviewbit.com/courses/programming/) <br>
+⏩ [30dayscoding](https://30dayscoding.com/) <br>
+⏩ [Placement-Preparation](https://github.com/anushka23g/Complete-Placement-Preparation) <br>
+⏩ [Learn DSA on codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) <br>
