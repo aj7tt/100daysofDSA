@@ -31,5 +31,6 @@
 
 ⏩ [learnByDoing](https://www.interviewbit.com/courses/programming/) <br>
 ⏩ [30dayscoding](https://30dayscoding.com/) <br>
+⏩ [FacePrep DSA](https://www.faceprep.in/data-structures/)
 ⏩ [Placement-Preparation](https://github.com/anushka23g/Complete-Placement-Preparation) <br>
 ⏩ [Learn DSA on codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) <br>
