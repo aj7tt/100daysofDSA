@@ -33,7 +33,7 @@
 
 ## Resources 📚🧾
 
-⏩ [practice](https://practice.geeksforgeeks.org/explore/?page=1)
+⏩ [practice](https://practice.geeksforgeeks.org/explore/?page=1) <br>
 ⏩ [learnByDoing](https://www.interviewbit.com/courses/programming/) <br>
 ⏩ [30dayscoding](https://30dayscoding.com/) <br>
 ⏩ [FacePrep DSA](https://www.faceprep.in/data-structures/) <br>
