@@ -31,7 +31,7 @@
  
 ## #100daysOfChallenge
 
-- [Daily coding Practice](https://github.com/Aj7t/100daysofDSA/tree/main/LearnByDoing)
+[Daily Practice](https://github.com/Aj7t/100daysofDSA/tree/main/LearnByDoing)
 - [ ] Fundamental
 - [x] Array
 - [x] String
