@@ -4,11 +4,10 @@
 ![](https://miro.medium.com/max/2560/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg)
  
  
-## Roadmap 🛣
-
-0️⃣ Fundamental <br>
+## Roadmap 🚧
+0️⃣ [Fundamental]() <br>
 1️⃣ Arrays & Matrix <br>
-2️⃣ [String](https://github.com/anushka23g/Complete-Placement-Preparation/blob/main/STRING.pdf) <br>
+2️⃣ [String]() <br>
 3️⃣ Searching <br>
 4️⃣ Sorting <br>
 5️⃣ Hashing <br>
@@ -31,9 +30,13 @@
 2. Leetcode Best practice [click here](https://drive.google.com/drive/folders/1YmxM3F7D0-23i9NbZ8kJ-slMKuPefEfT) <br>
  
 ###
+- [ ] Fundamental
+- [x] Array
+- [x] String
 
->[Daily coding Practice](https://github.com/Aj7t/100daysofDSA/tree/main/LearnByDoing)
-  
+
+
+- [Daily coding Practice](https://github.com/Aj7t/100daysofDSA/tree/main/LearnByDoing)
 
 ## Resources 📚🧾
 
