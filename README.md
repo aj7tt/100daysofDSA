@@ -44,7 +44,7 @@
 
 ## Resources 📚🧾
 
-⏩ [practice](https://practice.geeksforgeeks.org/explore/?page=1) <br>
+⏩ [practice G4G](https://practice.geeksforgeeks.org/explore/?page=1) <br>
 ⏩ [30dayscoding](https://30dayscoding.com/) <br>
 ⏩ [FacePrep DSA](https://www.faceprep.in/data-structures/) <br>
 ⏩ [Placement-Preparation](https://github.com/anushka23g/Complete-Placement-Preparation) <br>
