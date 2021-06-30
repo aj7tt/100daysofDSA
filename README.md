@@ -3,26 +3,7 @@
 
 ![](https://miro.medium.com/max/2560/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg)
  
- 
-## Roadmap 🚧
-0️⃣ Fundamental <br>
-1️⃣ Arrays & Matrix <br>
-2️⃣ String <br>
-3️⃣ Searching <br>
-4️⃣ Sorting <br>
-5️⃣ Recursion <br>
-6️⃣ Stack <br>
-7️⃣ Queue <br>
-8️⃣ Linked List <br>
-9️⃣ Hashing <br>
-1️⃣0️⃣ Backtracking <br>
-1️⃣1️⃣ Tree <br>
-1️⃣2️⃣ BST <br>
-1️⃣3️⃣ Heap <br>
-1️⃣4️⃣ Graph <br>
-1️⃣5️⃣ Greedy <br>
-1️⃣6️⃣ Dynamic programming <br>
- 
+  
 
 ## Coding Practice 💻👩‍💻
 
