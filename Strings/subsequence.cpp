@@ -1,3 +1,7 @@
+
+// subsequence is a sequencial char of any text !! 
+
+
 #include <iostream>
 #include <string.h>
 #include <bits/stdc++.h>
@@ -9,12 +13,20 @@ bool isSubsequence(string &s1, string &s2){
     int m= s1.length();
     int n= s2.length();
     int j=0;
-    for(int i= 0; i < n && j < m; i++){
+    //transverse  and always ++ i
+    for(int i= 0; i < m && j < n; i++){
+        //if the condition matches, ++j & ++i
         if(s1[i]==s2[j]){
             j++;
         }
     }
-    return (j==m);
+    //when to return true ?
+    if (j==n){
+        return 1;
+    }
+    else {
+        return 0;
+    }
 
 }
 
@@ -23,5 +35,5 @@ int main(){
     string s1 = "ABCD";
     string s2 = "AD";
 
-    isSubsequence(s1, s2);
+    cout<<isSubsequence(s1, s2);
 }
