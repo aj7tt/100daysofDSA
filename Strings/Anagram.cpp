@@ -1,7 +1,8 @@
 //check both the strings are anagram to each other
 
 /* 
-anagram means : same no of character present in both the strings 
+anagram means : same no of character present in both the strings in order/inorder manner 
+frequency and char need to be same , while order can different 
 
 */
 
@@ -10,32 +11,12 @@ anagram means : same no of character present in both the strings
 #include <bits/stdc++.h>
 using namespace std;
 
-//Efficient approach
-const int CHAR = 256;
-
-bool isAnagram(string &s1, string &s2){
-    if(s1.length() != s2.length()){
-        return false;
-    }
-    int count[CHAR]={0};
-    for(int i=0; i<s1.length(); i++){
-        count[s1[i]]++;
-        count[s2[i]]--;
-    }
-
-    //
-    for(int i=0; i<CHAR; i++) {
-        if(count[i]!=0){
-            return false;
-        }
-    }
-    return true;
-}
 
 
 // naive approach
 
 bool areAnagram(string &s1, string &s2){
+    //returns false if the length (frequency) of both the string isn't same 
     if(s1.length() != s2.length()){
         return false;
     }
@@ -47,6 +28,36 @@ bool areAnagram(string &s1, string &s2){
     return (s1==s2);
 
 }
+
+
+//Efficient approach
+// initilaise count array of 256
+const int CHAR = 256;
+
+bool isAnagram(string &s1, string &s2){
+    // if length is not same 
+    if(s1.length() != s2.length()){
+        return false;
+    }
+    // transverse the strings.......
+    //initilaize count array to 0
+    int count[CHAR]={0};
+    for(int i=0; i<s1.length(); i++){
+        //count the frequency of ech character 
+        count[s1[i]]++;         // increase for i 
+        count[s2[i]]--;         // decrease for j
+    }
+
+    //if the count of both the string is 0 , that means having same frequency of chars 
+    for(int i=0; i<CHAR; i++) {
+        if(count[i]!=0){
+            return false;
+        }
+    }
+    return true;
+}
+
+
 
 int main(){
 
