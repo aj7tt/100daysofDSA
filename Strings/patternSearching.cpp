@@ -1,9 +1,11 @@
+ 
+
 
 #include <iostream>
 #include <string>
 using namespace std;
 
-void patSearching(string &text, string &pattern){
+int patSearching(string &text, string &pattern){
     //length of text && pattern
     int n = text.length();
     int m = pattern.length();
@@ -27,10 +29,10 @@ void patSearching(string &text, string &pattern){
 int main(){
 
     //initialize string for tetx andn  pattern 
-    string text= "abcabcd";
+    string text= "abcabcdabcd";
 
     string pattern="abcd";
 
-    patSearching(text,pattern);
+    cout<<patSearching(text,pattern);
 
 }
