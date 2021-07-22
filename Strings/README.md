@@ -3,7 +3,7 @@
 
 
 
-# String Searching Meethod 
+# String Searching Method 
 
 
 - **1. Naïve algorithm:**
