@@ -16,13 +16,21 @@
 - [x] String
 
 
-## Guide to DSA 
+### How to use different DSA ?
 
-1. Why you need to learn them
 ```
-The reality is: You will and should never implement many data structures yourself on the job.
-There are libraries for this purpose. Either a language's standard library or a commonly used library will provide them for you.
+To decide which data structure you need in what case, you should know about them in the first place.
+
+You need to know:
+- Which exist
+- What they are good for
+- How they work
+- Their runtime characteristics (time and space complexity)
+- Their pros
+- And cons
+
 ```
+
 
 
 
