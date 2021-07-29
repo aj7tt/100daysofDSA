@@ -10,7 +10,7 @@
 2. Leetcode Best practice [click here](https://drive.google.com/drive/folders/1YmxM3F7D0-23i9NbZ8kJ-slMKuPefEfT) <br>
 
 
-## How to use different DSA ?
+## How to use different DSA ?💻
 
 ```
 To decide which data structure you need in what case, you should know about them in the first place.
@@ -24,6 +24,7 @@ You need to know:
 - And cons
 
 ```
+[Application of DSA](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
 
 ## #100daysOfCode 💻 
  
