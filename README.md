@@ -9,14 +9,8 @@
 1. 500 Question on DSA [Click here](https://drive.google.com/drive/folders/1YmxM3F7D0-23i9NbZ8kJ-slMKuPefEfT) <br>
 2. Leetcode Best practice [click here](https://drive.google.com/drive/folders/1YmxM3F7D0-23i9NbZ8kJ-slMKuPefEfT) <br>
 
-## #100daysOfCode 💻 
- 
-- [ ] Fundamental
-- [x] Array
-- [x] String
 
-
-### How to use different DSA ?
+## How to use different DSA ?
 
 ```
 To decide which data structure you need in what case, you should know about them in the first place.
@@ -31,7 +25,13 @@ You need to know:
 
 ```
 
-
+## #100daysOfCode 💻 
+ 
+- [X] Fundamental
+- [x] Array
+- [x] String
+- [X] Searching
+- [ ] Shorting
 
 
 ## Resources 📚🧾
