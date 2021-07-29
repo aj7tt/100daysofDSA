@@ -16,8 +16,13 @@
 - [x] String
 
 
+## Guide to DSA 
 
-
+1. Why you need to learn them
+```
+The reality is: You will and should never implement many data structures yourself on the job.
+There are libraries for this purpose. Either a language's standard library or a commonly used library will provide them for you.
+```
 
 
 
