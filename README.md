@@ -23,9 +23,11 @@ You need to know:
 - Their pros && Cons.
 
 ```
+
 ![](https://www.hellocodeclub.com/wp-content/uploads/2020/05/diagram-data-structure-6-300x300-1.png)
 
-[Brief explanation](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)  ||   
+<br>
+[Brief explanation](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)     
 [Application of DSA](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
 
 ## #100daysOfCode 💻 
@@ -34,7 +36,7 @@ You need to know:
 - [x] Array
 - [x] String
 - [X] Searching
-- [ ] Shorting
+- [X] Shorting
 
 
 ## Resources 📚🧾
