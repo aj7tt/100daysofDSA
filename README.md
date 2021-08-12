@@ -10,20 +10,22 @@
 2. Leetcode Best practice [click here](https://drive.google.com/drive/folders/1YmxM3F7D0-23i9NbZ8kJ-slMKuPefEfT) <br>
 
 
-## How to use different DSA ?💻
+## Choosing the Right Data Structure to solve problems?💻
 
 ```
 To decide which data structure you need in what case, you should know about them in the first place.
 
 You need to know:
-- Which exist
+- Which  DS exist
 - What they are good for
 - How they work
 - Their runtime characteristics (time and space complexity)
-- Their pros
-- And cons
+- Their pros && Cons.
 
 ```
+![](https://www.hellocodeclub.com/wp-content/uploads/2020/05/diagram-data-structure-6-300x300-1.png)
+
+[Brief explanation](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)
 [Application of DSA](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
 
 ## #100daysOfCode 💻 
