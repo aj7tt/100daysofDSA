@@ -26,8 +26,8 @@ You need to know:
 
 ![](https://www.hellocodeclub.com/wp-content/uploads/2020/05/diagram-data-structure-6-300x300-1.png)
 
-<br>
-[Brief explanation](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)     
+
+[Brief explanation](https://www.careerdrill.com/blog/coding-interview/choosing-the-right-data-structure-to-solve-problems/)  <br>   
 [Application of DSA](https://www.geeksforgeeks.org/real-time-application-of-data-structures/)
 
 ## #100daysOfCode 💻 
