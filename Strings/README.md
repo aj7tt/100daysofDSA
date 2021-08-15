@@ -22,3 +22,15 @@ It is improved on the Brute-force algorithm and the new algorithm is capable of 
 
 The idea behind the Boyer-Moore algorithm is information gain. Here information is gained by beginning the comparison from the end of the pattern instead of the beginning.
 It performs the string searching task in sub linear time in the average case, which even KMP algorithm could not accomplish at that time.
+
+
+
+
+## ASCll values 
+
+![image](https://user-images.githubusercontent.com/67835881/129482849-2e0f3e75-3350-4f96-9443-3068f0828d10.png)
+
+- NUMBER : 48-57
+- SMALLER : 65-90
+- cAPITAL : 97-122
+
