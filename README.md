@@ -33,10 +33,17 @@ You need to know:
 ## #100daysOfCode 💻 
  
 - [X] Fundamental
-- [x] Array
-- [x] String
-- [X] Searching
-- [X] Shorting
+- [x] [Array](https://github.com/Aj7t/100daysofDSA/tree/main/Arrays)
+- [x] [String](https://github.com/Aj7t/100daysofDSA/tree/main/Strings)
+- [X] [Searching](https://github.com/Aj7t/100daysofDSA/tree/main/Searching)
+- [X] [Sorting](https://github.com/Aj7t/100daysofDSA/tree/main/Sorting)
+- [X] Hashing
+- [ ] List 
+- [ ] Queue
+- [ ] Stack 
+- [ ] Tree
+
+
 
 
 ## Resources 📚🧾
