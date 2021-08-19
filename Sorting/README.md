@@ -43,9 +43,9 @@
 
 ## Real World Applications of Sorting 💻
 
-Merge Sort: Databases use an external merge sort to sort sets of data that are too large to be loaded entirely into memory. The driving factor in this sort is the reduction in the number of disk I/Os.
-Bubble Sort: Bubble sort is used in programming TV remote to sort channels on the basis of longer viewing time.
-Heap Sort: Heap sort is used in reading barcodes on plastic cards. The service allows to communicate with the database to constantly run checks to ensure that they were all still online and had to constantly report statistics on which readers were performing the worst, which ones got the most/least user activity, etc.
-Quick Sort: Sports scores are organised by quick sort on the basis of win-loss ratio.
-Radix Sort: eBay allows you to sort listings by the current Bid amount leveraging radix sort.
-Selection Sort: K12 education portal allows sorting list of pupils alphabetically through selection sort.
+- Merge Sort: Databases use an external merge sort to sort sets of data that are too large to be loaded entirely into memory. The driving factor in this sort is the reduction in the number of disk I/Os.
+- Bubble Sort: Bubble sort is used in programming TV remote to sort channels on the basis of longer viewing time.
+- Heap Sort: Heap sort is used in reading barcodes on plastic cards. The service allows to communicate with the database to constantly run checks to ensure that they were all still online and had to constantly report statistics on which readers were performing the worst, which ones got the most/least user activity, etc.
+- Quick Sort: Sports scores are organised by quick sort on the basis of win-loss ratio.
+- Radix Sort: eBay allows you to sort listings by the current Bid amount leveraging radix sort.
+- Selection Sort: K12 education portal allows sorting list of pupils alphabetically through selection sort.
