@@ -56,7 +56,5 @@ You need to know:
 ⏩ [Learn DSA - codechef](https://www.codechef.com/certification/data-structures-and-algorithms/prepare) <br>
 ⏩ [techdevguide](https://techdevguide.withgoogle.com/resources)<br>
 ⏩ [Leetcode.com](https://leetcode.com/explore/learn/)
-
-
-![image](https://user-images.githubusercontent.com/67835881/130274255-d5fcef2b-536f-46e1-b799-93ea0b78ba8d.png)
+ 
 
