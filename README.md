@@ -1,4 +1,4 @@
-########## 100daysofcode Challenge
+####100daysofcode Challenge
 
 # 100daysofDSA 🖥🖥
 
