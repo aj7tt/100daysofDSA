@@ -1,0 +1,46 @@
+Time complexity [What is the time complexity of the following code :]
+
+1.Basic primer
+
+Question:01
+
+  A) for(i = 0; i < n; i++)
+ 
+  B) for(i = 0; i < n; i += 2)
+ 
+  C) for(i = 1; i < n; i *= 2)
+ 
+  D) for(i = n; i > -1; i /= 2)
+
+
+sol:- 
+The time complexity of the first for loop is O(n). 
+
+The time complexity of the second for loop is O(n/2), equivalent to O(n) in asymptotic analysis. 
+
+The time complexity of the third for loop is O(logn). 
+
+The fourth for loop doesn't terminate. 
+
+
+Question:02
+
+        int a = 0, i = N;
+        while (i > 0) {
+            a += i;
+            i /= 2;
+        }
+
+
+
+Approach :-
+Notice that in every iteration, i goes to i / 2
+
+So, after x iterations, i will be N / 2^x
+
+We have to find first x such that N / 2^x < 1 OR 2^x > N
+
+
+
+
+ 
