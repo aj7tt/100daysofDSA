@@ -1,4 +1,10 @@
-####100daysofcode Challenge
+#### 100daysofcode Challenge
+
+````
+Explore about arrays, linked lists, stacks & queues, graphs, and 
+more to master the foundations of data structures & algorithms!
+
+```
 
 # 100daysofDSA 🖥🖥
 
