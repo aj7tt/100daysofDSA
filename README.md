@@ -1,10 +1,5 @@
-#### 100daysofcode Challenge
+####100daysofcode Challenge
 
-````
-Explore about arrays, linked lists, stacks & queues, graphs, and 
-more to master the foundations of data structures & algorithms!
-
-```
 
 # 100daysofDSA 🖥🖥
 
@@ -20,7 +15,6 @@ more to master the foundations of data structures & algorithms!
 
 ## Choosing the Right Data Structure to solve problems?💻
 
-```
 To decide which data structure you need in what case, you should know about them in the first place.
 
 You need to know:
@@ -30,7 +24,7 @@ You need to know:
 - Their runtime characteristics (time and space complexity)
 - Their pros && Cons.
 
-```
+
 
 ![](https://www.hellocodeclub.com/wp-content/uploads/2020/05/diagram-data-structure-6-300x300-1.png)
 
