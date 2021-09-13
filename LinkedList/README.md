@@ -1,10 +1,21 @@
 ## Notes 
 
-######Insertions
+###  Insertions
 [LL Inserion Visualisation](https://www.educative.io/courses/competitive-programming-in-cpp-keys-to-success/YMZGY05yEAK)
 
+```
+Insertion at Given Position !
 
-![Insertion at end ](https://user-images.githubusercontent.com/67835881/133002991-dde269bc-7ca6-4e00-9af9-2157cf5d8dfd.png)
+```
+
+![Insertion at Given Position](https://user-images.githubusercontent.com/67835881/133051492-a80d8179-9742-4517-bcf7-f580d6d4112e.png)
+
+```
+Insertion at end !
+
+```
+
+![ ](https://user-images.githubusercontent.com/67835881/133002991-dde269bc-7ca6-4e00-9af9-2157cf5d8dfd.png)
 
 
 
