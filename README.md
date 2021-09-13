@@ -1,6 +1,11 @@
 ####100daysofcode Challenge
 
 
+```
+Explore about arrays, linked lists, stacks & queues, graphs, and 
+more to master the foundations of data structures & algorithms!
+`````
+
 # 100daysofDSA 🖥🖥
 
 ![](https://miro.medium.com/max/2560/1*sMryEXZVPKFjGNcfSzE8Mw.jpeg)
@@ -23,7 +28,6 @@ You need to know:
 - How they work
 - Their runtime characteristics (time and space complexity)
 - Their pros && Cons.
-
 
 
 ![](https://www.hellocodeclub.com/wp-content/uploads/2020/05/diagram-data-structure-6-300x300-1.png)
