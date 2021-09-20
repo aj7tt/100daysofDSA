@@ -43,9 +43,8 @@ You need to know:
 - [X] [Searching](https://github.com/Aj7t/100daysofDSA/tree/main/Searching)
 - [X] [Sorting](https://github.com/Aj7t/100daysofDSA/tree/main/Sorting)
 - [X] Hashing
-- [ ] List 
 - [ ] Queue
-- [ ] Stack 
+- [x] Stack 
 - [ ] Tree
 
 
